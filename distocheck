@@ -1,0 +1,7 @@
+#!/usr/bin/env python
+#
+# NTB Bloodbath | Distocheck - Discord Token Checker
+# ==================================================
+# Distocheck is distributed under the MIT License.
+
+import src.distocheck
